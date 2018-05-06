@@ -1,0 +1,4 @@
+This repo has Machine learning models / algorithms implemented from scratch:
+- Random forests with Decision tree regressor 
+- Random forests with Decision tree classifier
+- K-means clustering 
